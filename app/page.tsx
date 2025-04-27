@@ -126,7 +126,7 @@ export default function Home() {
                 </h2>
                 <p className="text-gray-600 md:text-lg">
                   At Fedoh, we believe in harmonizing agricultural practices with nature. Founded with a vision to
-                  transform farming through innovation, we've been at the forefront of sustainable agriculture for over
+                  transform farming through innovation, weve been at the forefront of sustainable agriculture for over
                   a decade.
                 </p>
                 <p className="text-gray-600 md:text-lg">
@@ -251,8 +251,8 @@ export default function Home() {
                       </div>
                     </div>
                     <p className="mt-4 text-gray-600">
-                      "Working with Fedoh has transformed our farming operations. Their sustainable approaches have not
-                      only increased our yields but also reduced our costs and environmental impact."
+                      Working with Fedoh has transformed our farming operations. Their sustainable approaches have not
+                      only increased our yields but also reduced our costs and environmental impact.
                     </p>
                   </CardContent>
                 </Card>
